@@ -1,0 +1,14 @@
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\bin\Debug\net8.0\Atividade.exe
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\bin\Debug\net8.0\Atividade.deps.json
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\bin\Debug\net8.0\Atividade.dll
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\bin\Debug\net8.0\Atividade.pdb
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\obj\Debug\net8.0\Atividade.dll
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\obj\Debug\net8.0\Atividade.pdb
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+D:\SENAI - Programador\09 - Codificação para Back End\SP 02\Controle\Atividade\obj\Debug\net8.0\ref\Atividade.dll
